@@ -1,4 +1,5 @@
-# Hi there, I'm Tae Young Lee 👋
+<h1 align="center">Hi 👋, I'm Tae Young Lee</h1>
+<h3 align="center">I am a chef turned software engineer, passionate about blending creativity with technology. After a successful career in the culinary arts, I transitioned into software engineering to channel my problem-solving skills and attention to detail into the tech world</h3>
 
 ## 🛠️ Technologies & Tools
 
