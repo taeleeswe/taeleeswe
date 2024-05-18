@@ -11,7 +11,7 @@ ___
 
 - 🔭 I’m currently seeking an entry-level software engineer or data engineer position
 -  💬 Ask me about my journey from the kitchen to coding
-- 📫 How to reach me: **taelee1029@gmail.com**
+- 📫 How to reach me: taelee1029@gmail.com
 -  <a href="https://linkedin.com/in/taeleeswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taeleeswe" height="15" width="20" /></a> LinkedIn: https://www.linkedin.com/in/taeleeswe/
 
 
