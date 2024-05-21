@@ -2,15 +2,14 @@
 
 
 
-I'm a chef turned software engineer, eager to bring my unique background and technical skills to a dynamic team. Having transitioned from a successful culinary career, I now apply my problem-solving abilities and attention to detail in the tech world. I'm a fast learner and detail-oriented, always ready to tackle new challenges and contribute to innovative projects in a collaborative environment
-
+I'm a chef turned software engineer, eager to bring my unique background and technical skills to a dynamic team. Having transitioned from a successful culinary career, I now apply my problem-solving abilities and attention to detail in the tech world.
 
 ___
 
 <br />
 
-- 🔭 I’m currently seeking an entry-level software engineer or data engineer position
--  💬 Ask me about my journey from the kitchen to coding
+- 🔭 I’m currently seeking an entry-level software engineer / data engineer position
+-  💬 Ask me about my journey from cooking to coding
 - 📫 How to reach me: taelee1029@gmail.com
 -  <a href="https://linkedin.com/in/taeleeswe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taeleeswe" height="15" width="20" /></a> LinkedIn: https://www.linkedin.com/in/taeleeswe/
 
